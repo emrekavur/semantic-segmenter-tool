@@ -7,7 +7,7 @@ This tool uses model is based on MobileNetV2 [1] architecture and is pretrained 
 ![Segmentation Sample](sampleResult.jpg)
 
 ## Getting Started
-Download the Please read and follow the instructions in User Manual.pdf file.
+Download the Please read and follow the instructions in *User Manual.pdf* file.
 
 ## References
 1. [MobileNetV2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
