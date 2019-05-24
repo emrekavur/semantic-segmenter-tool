@@ -2,7 +2,7 @@
 
 This is a simple tool that can be used for scemantic segmentations of coloured images. This tool adopts a pretrained deep learning model for segmentation. It needs both Python and Matlab installations. Also, some additional Python libraries are necessary.
 
-This tool uses model is based on MobileNetV2 [1] architecture and is pretrained with Microsoft COCO dataset [2]. The model can segment and identify the objects: aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, dining table, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, and tv.
+This tool uses a model is based on MobileNetV2 [1] architecture and is pretrained with Microsoft COCO dataset [2]. The model can segment and identify the objects: aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, dining table, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, and tv.
 
 ![Segmentation Sample](sampleResult.jpg)
 
